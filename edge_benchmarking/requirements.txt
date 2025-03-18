@@ -1,0 +1,6 @@
+git+https://github.com/Verz1Lka/scrapy-crawlera-fetch.git@dce1099
+google-cloud-bigquery
+google-cloud-storage
+dateparser
+scrapinghub
+scrapy-zyte-smartproxy
